@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white" align=center>
 
 ### 현재 진행 중인 토이 프로젝트
-- [Full Stack Coding Bot 🤖](https://github.com/SinsaStation/FullStackCodingBot) - 개발 테마의 간단한 퍼즐게임
+- [Full Stack Coding Master 🤖](https://github.com/SinsaStation/FullStackCodingBot) - 개발 테마의 간단한 퍼즐게임
 
 ### CodeSquad 과정에서 진행한 프로젝트
 - [Airbnb ✈️](https://github.com/eeeesong/airbnb) - 에어비앤비 앱 클론 프로젝트
