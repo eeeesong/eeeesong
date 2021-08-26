@@ -6,12 +6,13 @@
 - 코드도 한 편의 글이라는 생각에 굉장히 공감합니다
 - `RxSwift` 공부를 이제 막 시작했습니다
 
-## Recently Release
+## Recently Released
 
 
 
 ### [Full Stack Coding Master 🤖](https://github.com/SinsaStation/FullStackCodingBot)
 - 개발 테마의 간단한 퍼즐게임
+- 개발 & 기획 & 디자인 참여
 - 다운로드 ⬇️
 
 [<img width=150px src=https://user-images.githubusercontent.com/42789819/115149387-d42e1980-a09e-11eb-88e3-94ca9b5b604b.png>](https://apps.apple.com/us/app/풀-스택-코딩-마스터/id1576807697)
