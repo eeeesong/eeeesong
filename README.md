@@ -25,11 +25,7 @@
 ### CodeSquad 과정에서 진행한 프로젝트
 - [Airbnb ✈️](https://github.com/eeeesong/airbnb) - 에어비앤비 앱 클론 프로젝트
 - [Issue Tracker ✏️](https://github.com/d-h-k/issue-tracker) - 깃허브 콘셉트의 이슈 트래킹 앱
-
-## Learnings 📚
-
-- [알고리즘 저장소 ✨](https://github.com/eeeesong/algorithm) - 알고리즘 문제 풀이를 저장하는 곳
-- [Cocoa Farm 🍫](https://github.com/eeeesong/cocoa-farm) - Cocoa Touch 프레임워크 공부 내용을 저장하는 곳
+- [Vending Machine 🥫](https://github.com/eeeesong/swift-vendingmachineapp) - 아이패드에 구현한 음료수 자판기
 
 -------
 
