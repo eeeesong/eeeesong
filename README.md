@@ -7,6 +7,9 @@
 - `RxSwift` 공부를 이제 막 시작했습니다.
 - 코드도 한 편의 글이라는 생각에 굉장히 동의하며 많은 사람들이 공감할 수 있는 코드를 짜고 싶습니다.
 
+
+## Projects 💡
+
 ### Recently Released - [Full Stack Coding Master 🤖](https://github.com/SinsaStation/FullStackCodingBot)
 - Swift로 개발한 개발자 소재의 간단한 퍼즐게임
 - 개발, 기획, 디자인 참여
@@ -14,8 +17,6 @@
 
 ### Currently Working On - [Booklendar 📚](https://github.com/eeeesong/booklendar) 
 - 기획 및 디자인 진행 중
-
-## Projects 💡
 
 ### CodeSquad 과정에서 진행한 프로젝트
 - [Airbnb ✈️](https://github.com/eeeesong/airbnb) - 에어비앤비 앱 클론 프로젝트
