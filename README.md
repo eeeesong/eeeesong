@@ -11,17 +11,23 @@
 ## Projects 💡
 
 ### Recently Released - [Full Stack Coding Master 🤖](https://github.com/SinsaStation/FullStackCodingBot)
-- Swift로 개발한 개발자 소재의 간단한 퍼즐게임
-- 개발, 기획, 디자인 참여
-- 리팩토링 진행 중 
+- `소개` Swift로 개발한 개발자 소재의 간단한 퍼즐게임
+- `주요 키워드` MVVM, RxSwift, Storyboard & AutoLayout, Custom View, Core Animation
+- `진행 상황` 배포 완료(2021.08.23), 리팩토링 진행 중 
+
 
 ### Currently Working On - [Booklendar 📚](https://github.com/eeeesong/booklendar) 
-- 기획 및 디자인 진행 중
+- `소개` 캘린더 기반의 독서 기록 앱. 공공 API 활용 프로젝트
+- `진행 상황` 기획 및 디자인 진행 중
 
 ### CodeSquad 과정에서 진행한 프로젝트
-- [Airbnb ✈️](https://github.com/eeeesong/airbnb) - 에어비앤비 앱 클론 프로젝트
-- [Issue Tracker ✏️](https://github.com/d-h-k/issue-tracker) - 깃허브 콘셉트의 이슈 트래킹 앱
-- [Vending Machine 🥫](https://github.com/eeeesong/swift-vendingmachineapp) - 아이패드에 구현한 음료수 자판기
+
+#### [Airbnb ✈️](https://github.com/eeeesong/airbnb) - 에어비앤비 앱 클론 프로젝트 (MVVM, Custom Calendar & Graph (Code Based), Network Test)
+
+#### [Issue Tracker ✏️](https://github.com/d-h-k/issue-tracker) - 깃허브 콘셉트의 이슈 트래킹 앱 (MVC, Apple Auth, Code Based View)
+
+#### [Vending Machine 🥫](https://github.com/eeeesong/swift-vendingmachineapp) - 음료수 자판기 구현을 통한 객체지향프로그래밍 연습 (MVC, OOP)
+
 
 
 ### 기타
