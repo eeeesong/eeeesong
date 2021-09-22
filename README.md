@@ -18,7 +18,7 @@
 
 ### Currently Working On - [Booklendar 📚](https://github.com/eeeesong/booklendar) 
 - `소개` 캘린더 기반의 독서 기록 앱. 공공 API 활용 프로젝트
-- `진행 상황` 기획 및 디자인 진행 중
+- `진행 상황` Calendar 개발 진행 중
 
 ### CodeSquad 과정에서 진행한 프로젝트
 
