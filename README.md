@@ -2,6 +2,7 @@
 
 - 코드도 한 편의 글이라는 생각에 굉장히 동의합니다.
 - 롱런하는 개발자가 되고 싶습니다.
+- SwiftUI 공부 중..🏃‍♀️
 
 ### Released - [Full Stack Coding Master 🤖](https://github.com/SinsaStation/FullStackCodingBot)
 - `소개` Swift로 개발한 개발자 소재의 간단한 퍼즐게임
