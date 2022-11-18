@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-- 코드도 한 편의 글이라는 생각에 굉장히 동의합니다.
-- 롱런하는 개발자가 되고 싶습니다.
-- 그러기 위해 토이프로젝트는 재미 위주로 😁
-- SwiftUI 공부 중..🏃‍♀️
+### In Progress... [????]()
+(비밀의 SwiftUI 프로젝트)
 
 
 ### Released - [Full Stack Coding Master 🤖](https://github.com/SinsaStation/FullStackCodingBot)
