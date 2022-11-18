@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### In Progress... [????]()
+### In Progress... [???? 💰]()
 (비밀의 SwiftUI 프로젝트)
 
 
