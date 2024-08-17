@@ -2,11 +2,6 @@
 
 ## Unity Projects 
 
-### Working on progress... 
-
-<img width="1098" alt="스크린샷 2024-06-28 12 28 57" src="https://github.com/eeeesong/eeeesong/assets/72188416/bea13add-7043-4e79-8653-02bbce5ee886">
-
-
 ### Published - [Discoala's Orange Game](https://eeeesong.itch.io/discoalas-orange-game)
 - `Introduction` Watermelon game inspired funky arcade game
 - `Engine` Unity
