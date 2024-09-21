@@ -2,6 +2,15 @@
 
 ## Unity Projects 
 
+### Published - [Peng the listener](https://eeeesong.itch.io/peng-the-listener)
+- `Introduction` Only trust your ears to get home!
+- `Engine` Unity
+- [Play in itch.io!](https://eeeesong.itch.io/peng-the-listener)
+
+
+<img width="463" alt="스크린샷 2024-09-21 12 52 18" src="https://github.com/user-attachments/assets/4ce2e3fd-d7ed-4575-b7fe-16c958b85663">
+
+
 ### Published - [Discoala's Orange Game](https://eeeesong.itch.io/discoalas-orange-game)
 - `Introduction` Watermelon game inspired funky arcade game
 - `Engine` Unity
