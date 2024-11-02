@@ -2,7 +2,26 @@
 
 ## Unity Projects 
 
-### Published - [Peng the listener](https://eeeesong.itch.io/peng-the-listener)
+### [Sweep dreams in fall](https://eeeesong.itch.io/sweep-dreams-in-fall)
+- `Introduction` A game for **Cozy Fall Jam 2024 🍁**, sweep the dream ground and discover fall vibes.
+- `Engine` Unity
+- [Play in itch.io!](https://eeeesong.itch.io/sweep-dreams-in-fall)
+
+
+![sweep_thumbnail](https://github.com/user-attachments/assets/4e2ae045-0a0f-4819-b75d-5ef053631b37)
+
+
+### [Sun_bi](https://eeeesong.itch.io/sunbi)
+- `Introduction` An interactive art project for Korean postmodern drink Fire Flower.
+- `Engine` Unity
+- [Play in itch.io!](https://eeeesong.itch.io/sunbi)
+
+
+![IMG_9419](https://github.com/user-attachments/assets/9c05b933-af1d-45ae-b572-190cb7999c17)
+
+
+
+### [Peng the listener](https://eeeesong.itch.io/peng-the-listener)
 - `Introduction` Only trust your ears to get home!
 - `Engine` Unity
 - [Play in itch.io!](https://eeeesong.itch.io/peng-the-listener)
@@ -11,7 +30,7 @@
 <img width="463" alt="스크린샷 2024-09-21 12 52 18" src="https://github.com/user-attachments/assets/4ce2e3fd-d7ed-4575-b7fe-16c958b85663">
 
 
-### Published - [Discoala's Orange Game](https://eeeesong.itch.io/discoalas-orange-game)
+### [Discoala's Orange Game](https://eeeesong.itch.io/discoalas-orange-game)
 - `Introduction` Watermelon game inspired funky arcade game
 - `Engine` Unity
 - [Play in itch.io!](https://eeeesong.itch.io/discoalas-orange-game)
@@ -19,7 +38,7 @@
 ![제목 없음-2](https://github.com/eeeesong/eeeesong/assets/72188416/45b1b0c6-b4bf-4be0-88e6-65e180e60736)
 
 
-### Released - [Let It Snow ❄️](https://apps.apple.com/us/app/%EB%88%88%EB%AA%A8%EC%9C%BC%EA%B8%B0-let-it-snow/id6474100783)
+### [Let It Snow ❄️](https://apps.apple.com/us/app/%EB%88%88%EB%AA%A8%EC%9C%BC%EA%B8%B0-let-it-snow/id6474100783)
 - `Introduction` Cute snow collecting game
 - `Engine` Unity
 - [Download in App Store!](https://apps.apple.com/us/app/%EB%88%88%EB%AA%A8%EC%9C%BC%EA%B8%B0-let-it-snow/id6474100783)
