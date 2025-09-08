@@ -4,6 +4,8 @@
 - `Engine` Unity
 - [Play in itch.io!](https://eeeesong.itch.io/sweep-dreams-in-fall)
 
+<img width="899" height="382" alt="the tower" src="https://github.com/user-attachments/assets/b977a987-8324-4000-b5cd-421618dce337" />
+
 ### [Sweep dreams in fall](https://eeeesong.itch.io/sweep-dreams-in-fall)
 - `Introduction` A game for **Cozy Fall Jam 2024 🍁**, sweep the dream ground and discover fall vibes.
 - `Engine` Unity
